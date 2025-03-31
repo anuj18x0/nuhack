@@ -1,0 +1,1 @@
+in start.py , img_path should contain the path of the image
